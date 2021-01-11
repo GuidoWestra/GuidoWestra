@@ -1,11 +1,11 @@
 # Welcome!
 
-## Ongoing Projects :seedling:
+## :seedling: Ongoing Projects 
 - Movie Database 
 - Chef's Choice Front-end
 - Chef's Choice Back-end
 
-## Finished Projects :palm_tree:
+## :palm_tree: Finished Projects 
 - Calculator App 
 A fully functional calculator!<br />
 Repo: https://github.com/GuidoWestra/calculator <br />
