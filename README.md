@@ -1,3 +1,4 @@
+# Welcome!
 ## Finished Projects :palm_tree:
 - Calculator App 
 A fully functional calculator!<br />
