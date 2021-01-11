@@ -1,8 +1,8 @@
 # :wave: Welcome!
-A career driven independent full stack developer with a growth mindset. 
-Recently graduated from Codaisseur's 11 week long intensive coding bootcamp!  
-Looking for a full stack position where i can further improve/develop my technical skills. 
-Ready to contribute to the next big thing.
+A career driven independent full stack developer with a growth mindset. <br />
+Recently graduated from Codaisseur's 11 week long intensive coding bootcamp! <br /> 
+Looking for a full stack position where i can further improve/develop my technical skills. <br /> 
+Ready to contribute to the next big thing. <br />
 ## :seedling: Ongoing Projects 
 - Movie Database 
 - Chef's Choice Front-end
