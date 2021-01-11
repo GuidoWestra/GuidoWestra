@@ -1,13 +1,15 @@
 # Welcome!
+
+## Ongoing Projects :seedling:
+- Movie Database 
+- Chef's Choice Front-end
+- Chef's Choice Back-end
+
 ## Finished Projects :palm_tree:
 - Calculator App 
 A fully functional calculator!<br />
 Repo: https://github.com/GuidoWestra/calculator <br />
 Live: https://calculatorguido.netlify.app/
-## Ongoing Projects :seedling:
-- Movie Database 
-- Chef's Choice Front-end
-- Chef's Choice Back-end
 
 ## Connect with me! [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/guidowestra/)
 ## Languages and Tools
