@@ -1,4 +1,4 @@
-# Welcome!
+# :wave: Welcome!
 
 ## :seedling: Ongoing Projects 
 - Movie Database 
