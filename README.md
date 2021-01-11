@@ -1,7 +1,8 @@
 # :wave: Welcome!
-A career driven independent full stack developer with a growth mindset. <br />
+My name is Guido! 
+I am a career driven independent full stack developer with a growth mindset. <br />
 Recently graduated from Codaisseur's 11 week long intensive coding bootcamp! <br /> 
-Looking for a full stack position where i can further improve/develop my technical skills. <br /> 
+Looking for a full stack position where I can further improve/develop my technical skills. <br /> 
 Ready to contribute to the next big thing. <br />
 ## :seedling: Ongoing Projects 
 - Movie Database 
