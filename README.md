@@ -17,7 +17,7 @@ Live: https://calculatorguido.netlify.app/
 
 ## [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/guidowestra/) Get in touch! 
 
-## Languages and Tools
+## :wrench: Languages and Tools
 <img align="left" alt="html logo" width="26px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"/>
 <img align="left" alt="css logo" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png"/>
 <img align="left" alt="js logo" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
