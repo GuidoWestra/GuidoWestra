@@ -7,7 +7,9 @@ Ready to contribute to the next big thing. <br />
 ## :seedling: Ongoing Projects 
 - Movie Database 
 - Chef's Choice Front-end
+Repo: https://github.com/GuidoWestra/Chefs-Choice-Front
 - Chef's Choice Back-end
+Repo: https://github.com/GuidoWestra/Chefs-Choice-Back
 
 ## :palm_tree: Finished Projects 
 - Calculator App 
