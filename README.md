@@ -6,16 +6,17 @@ Looking for a full stack position where I can further improve/develop my technic
 Ready to contribute to the next big thing. <br />
 ## :seedling: Ongoing Projects 
 - Movie Database 
-- Chef's Choice Front-end <br />
-Repo: https://github.com/GuidoWestra/Chefs-Choice-Front
-- Chef's Choice Back-end  <br />
-Repo: https://github.com/GuidoWestra/Chefs-Choice-Back
+
 
 ## :palm_tree: Finished Projects 
 - Calculator App 
 A fully functional calculator!<br />
 Repo: https://github.com/GuidoWestra/calculator <br />
 Live: https://calculatorguido.netlify.app/
+Chef's Choice Front-end <br />
+Repo: https://github.com/GuidoWestra/Chefs-Choice-Front
+Chef's Choice Back-end  <br />
+Repo: https://github.com/GuidoWestra/Chefs-Choice-Back
 
 ## [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/guidowestra/) Get in touch! 
 
