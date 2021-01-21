@@ -15,9 +15,9 @@ Repo: https://github.com/GuidoWestra/calculator <br />
 Live: https://calculatorguido.netlify.app/
 - Chefs choice <br />
 Chef's Choice Front-end <br />
-Repo: https://github.com/GuidoWestra/Chefs-Choice-Front
+Repo: https://github.com/GuidoWestra/Chefs-Choice-Front <br />
 Chef's Choice Back-end  <br />
-Repo: https://github.com/GuidoWestra/Chefs-Choice-Back
+Repo: https://github.com/GuidoWestra/Chefs-Choice-Back <br />
 
 ## [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/guidowestra/) Get in touch! 
 
