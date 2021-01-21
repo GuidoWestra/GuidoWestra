@@ -13,6 +13,7 @@ Ready to contribute to the next big thing. <br />
 A fully functional calculator!<br />
 Repo: https://github.com/GuidoWestra/calculator <br />
 Live: https://calculatorguido.netlify.app/
+- Chefs choice
 Chef's Choice Front-end <br />
 Repo: https://github.com/GuidoWestra/Chefs-Choice-Front
 Chef's Choice Back-end  <br />
