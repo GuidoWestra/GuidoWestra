@@ -11,7 +11,7 @@ Ready to contribute to the next big thing. <br />
 
 
 ## :palm_tree: Finished Projects 
--Travel-Tips:
+-Travel-Tips:<br />
    -Travel-Tips Front-End <br />
     Repo: https://github.com/GuidoWestra/Travel-Tips-Front <br />
     Live: https://travel-tips.netlify.app/ <br />
