@@ -5,7 +5,6 @@ Recently graduated from Codaisseur's 11 week long intensive coding bootcamp! <br
 Looking for a full stack position where I can further improve/develop my technical skills. <br /> 
 Ready to contribute to the next big thing. <br />
 ## :seedling: Ongoing Projects 
-- Travel-Tips
 - Digital Card Game
 - Movie Database 
 
