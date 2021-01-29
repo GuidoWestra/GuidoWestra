@@ -11,10 +11,18 @@ Ready to contribute to the next big thing. <br />
 
 
 ## :palm_tree: Finished Projects 
+-Travel-Tips:
+  - Travel-Tips Front-End <br />
+    Repo: https://github.com/GuidoWestra/Travel-Tips-Front <br />
+    Live: https://travel-tips.netlify.app/ <br />
+  - Travel-Tips Back-End  <br />
+    Repo: https://github.com/GuidoWestra/Travel-Tips-Back <br />
+    Live: https://dashboard.heroku.com/apps/travel--tips <br />    
+    <br />
 - Calculator App 
 A fully functional calculator!<br />
 Repo: https://github.com/GuidoWestra/calculator <br />
-Live: https://calculatorguido.netlify.app/
+Live: https://calculatorguido.netlify.app/  <br />
 - Chefs choice <br />
   -Chef's Choice Front-end <br />
    Repo: https://github.com/GuidoWestra/Chefs-Choice-Front <br />
