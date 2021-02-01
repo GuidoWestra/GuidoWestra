@@ -11,10 +11,10 @@ Ready to contribute to the next big thing. <br />
 
 ## :palm_tree: Finished Projects 
 - Travel-Tips:<br />
-   -Travel-Tips Front-End <br />
+   -Travel-Tips  Front-End <br />
     Repo: https://github.com/GuidoWestra/Travel-Tips-Front <br />
     Live: https://travel-tips.netlify.app/ <br />
-   -Travel-Tips Back-End  <br />
+   -Travel-Tips  Back-End  <br />
     Repo: https://github.com/GuidoWestra/Travel-Tips-Back <br />
     Live: https://dashboard.heroku.com/apps/travel--tips <br />    
 - Calculator App 
@@ -22,12 +22,12 @@ Ready to contribute to the next big thing. <br />
    -Repo: https://github.com/GuidoWestra/calculator <br />
    -Live: https://calculatorguido.netlify.app/  <br />
 - Chefs choice <br />
-   -Chef's Choice Front-end <br />
+   -Chef's Choice  Front-end <br />
     Repo: https://github.com/GuidoWestra/Chefs-Choice-Front <br />
-   -Chef's Choice Back-end  <br />
+   -Chef's Choice  Back-end  <br />
     Repo: https://github.com/GuidoWestra/Chefs-Choice-Back <br />
 
-## [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/guidowestra/) Get in touch! 
+## [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/guidowestra/) Get in touch!
 
 ## :wrench: Languages and Tools
 <img align="left" alt="html logo" width="26px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"/>
