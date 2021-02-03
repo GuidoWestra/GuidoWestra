@@ -7,6 +7,7 @@ Ready to contribute to the next big thing. <br />
 ## :seedling: Ongoing Projects 
 - Digital Card Game
 - Movie Database 
+- Chefs Choice (ReBuilding and styling)
 
 
 ## :palm_tree: Finished Projects 
