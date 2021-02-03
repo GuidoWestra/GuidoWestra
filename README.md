@@ -8,6 +8,7 @@ Ready to contribute to the next big thing. <br />
 - Digital Card Game
 - Movie Database 
 - Chefs Choice (Refactoring and styling)
+- Movie Match  (Refactoring and styling)
 
 
 ## :palm_tree: Finished Projects 
