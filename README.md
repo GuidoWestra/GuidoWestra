@@ -1,5 +1,5 @@
 # :wave: Welcome!
-My name is Guido! 
+My name is Guido Westra! 
 I am a career driven independent full stack developer with a growth mindset. <br />
 Recently graduated from Codaisseur's 11 week long intensive coding bootcamp! <br /> 
 Looking for a full stack position where I can further improve/develop my technical skills. <br /> 
